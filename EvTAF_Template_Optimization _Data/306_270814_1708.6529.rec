@@ -1,0 +1,22 @@
+File created: Wed, Aug 27, 2014, 17:09:00
+
+     begin rec = 0 ms
+     trig time  = 2100 ms
+     rec end = 15020 ms
+
+ADFREQ =   44150
+Chans = 1
+Samples = 663134
+Catch = 0
+Output Sound File =C:\Documents and Settings\Administrator\My Documents\Dropbox\troyerlabcode\EvTAF\EvTAF_Output_Sounds\wn80.wav
+T Before = 2.1000000000E+0
+T After = 2.0000000000E+0
+Thresholds = 
+3.254800E+0
+3.807600E+0
+Template File = C:\Documents and Settings\Administrator\My Documents\Dropbox\Shared_Notes\5021_cJ_targeting_optimized_templates.dat
+Feedback information: 
+
+4.425131E+32.240361E+6 msec: catch
+7.799799E+32.208733E+6 msec: catch
+10.699090E+32.245286E+6 msec: catch
